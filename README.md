@@ -4,3 +4,6 @@ This is a very simple proof-of-concept app that uses the [USGS API](http://earth
 __Demonstrates the following:__
 * Simple Angular.js usage
 * RESTful API usage
+
+__Live Demo:__
+http://mycahmason.com/usgs
